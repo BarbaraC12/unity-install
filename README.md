@@ -15,7 +15,7 @@ $> sudo apt-get remove unityhub
 ```
 $> wget -qO - https://hub.unity3d.com/linux/keys/public | gpg --dearmor | sudo tee /usr/share/keyrings/Unity_Technologies_ApS.gpg > /dev/null
 ```
-2. Ajouter Unity Hub repertoire a chemin /etc/apt/sources.list.d:  
+2. Ajouter Unity Hub repertoire au chemin /etc/apt/sources.list.d:  
 ```
 $> sudo sh -c 'echo "deb [signedby=/usr/share/keyrings/Unity_Technologies_ApS.gpg] https://hub.unity3d.com/linux/repos/deb stable main" > /etc/apt/sources.list.d/unityhub.list'
 ```
@@ -26,4 +26,6 @@ $> sudo apt-get install unityhub
 ```
 
 ### Manuel d'utilisation:
-[![logo](https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.unity.UnityHub.png)](https://docs.unity3d.com/Manual/UnityManual.html)
+[![unity](https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.unity.UnityHub.png)](https://docs.unity3d.com/Manual/UnityManual.html)
+[![Csharp]()](https://docs.unity3d.com/Manual/UnityManual.html)
+[![C++]()](https://docs.unity3d.com/Manual/UnityManual.html)
