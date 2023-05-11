@@ -5,6 +5,19 @@ Unity est un moteur de jeu multiplateforme développé par Unity Technologies. C
 | :--------: | :--------: | :--------: |
 | Anglais | C#, C++ | Ori, Temple Run, Monument Valley, ... |
 
+### Manuel d'utilisation:
+<div align="center">
+ <a alt="unity" href="https://docs.unity3d.com/Manual/UnityManual.html" target="_blank" title="unity">
+  <img width="10%" src="https://github.com/BarbaraC12/unity-install/img/blob/main/apprendre-coder-unity.png" />
+ </a>
+  <a alt="C#" href="https://learn.microsoft.com/fr-fr/dotnet/csharp/methods" target="_blank" title="C Sharp">
+  <img width="10%" src="https://github.com/BarbaraC12/unity-install/img/blob/main/c-sharp.png" />
+ </a>
+  <a alt="C++" href="https://cplusplus.com/reference/" target="_blank" title="C++">
+  <img width="10%" src="https://github.com/BarbaraC12/unity-install/img/blob/main/c-plus-plus.png" />
+ </a>
+</div>
+
 ### Pour désinstaller sur Linux/Debian:  
 ```
 $> sudo apt-get remove unityhub
@@ -24,8 +37,3 @@ $> sudo sh -c 'echo "deb [signedby=/usr/share/keyrings/Unity_Technologies_ApS.gp
 $> sudo apt update
 $> sudo apt-get install unityhub
 ```
-
-### Manuel d'utilisation:
-[![unity](https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.unity.UnityHub.png)](https://docs.unity3d.com/Manual/UnityManual.html)
-[![Csharp]()](https://docs.unity3d.com/Manual/UnityManual.html)
-[![C++]()](https://docs.unity3d.com/Manual/UnityManual.html)
